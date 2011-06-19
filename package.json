@@ -1,0 +1,13 @@
+{
+    "name" : "node-endicia-mac",
+    "main" : "./lib/endicia.js",
+    "version" : "0.8.0",
+    
+    "description" : "Integrate Endicia for Mac with node.js workflows",
+    "url" : "https://github.com/dpb587/node-endicia-mac",
+    "author" : "Danny Berger <dpb587@gmail.com>",
+    
+    "dependencies" : {
+        "node-xml" : ">=1.0.0"
+    }
+}

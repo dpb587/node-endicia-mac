@@ -1,0 +1,9 @@
+[submodule "node_modules/node-xml"]
+	path = node_modules/node-xml
+	url = git://github.com/robrighter/node-xml.git
+[submodule "node_modules/vows"]
+	path = node_modules/vows
+	url = git://github.com/cloudhead/vows.git
+[submodule "node_modules/eyes"]
+	path = node_modules/eyes
+	url = git://github.com/cloudhead/eyes.js.git

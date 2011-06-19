@@ -1,0 +1,13 @@
+<DAZzle Prompt="NO" Test="YES">
+    <Package ID="12345">
+        <MailClass>PRIORITY</MailClass>
+        <PackageType>RECTPARCEL</PackageType>
+        <WeightOz>16</WeightOz>
+        
+        <ToName>Endicia</ToName>
+        <ToAddress1>385 Sherman Ave</ToAddress1>
+        <ToCity>Palo Alto</ToCity>
+        <ToState>CA</ToState>
+        <ToPostalCode>94306</ToPostalCode>
+    </Package>
+</DAZzle>
